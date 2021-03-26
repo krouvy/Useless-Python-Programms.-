@@ -1,1 +1,2 @@
-**This example to work with differents operators, strings and some math functions**
+**This example 
+shows  the work with differents operators and some math functions**
