@@ -1,0 +1,1 @@
+**This example to work with differents operators, strings and some math functions**
