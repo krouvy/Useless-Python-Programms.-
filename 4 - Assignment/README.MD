@@ -1,0 +1,1 @@
+**In this way, you can perform assignment in Python.**
