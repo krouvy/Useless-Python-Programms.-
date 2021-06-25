@@ -1,0 +1,1 @@
+**Using nested conditions and cycle for the example of finding the length of a string with and without len() funsction.**
