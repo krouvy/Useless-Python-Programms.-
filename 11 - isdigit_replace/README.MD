@@ -1,0 +1,1 @@
+**An example of the operation of such functions and methods as: input (), isdigit (), type(), int(), str(), replace()**
