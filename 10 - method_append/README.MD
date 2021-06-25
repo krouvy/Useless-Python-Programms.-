@@ -1,0 +1,1 @@
+**To append elements to list with the help method "append"**
