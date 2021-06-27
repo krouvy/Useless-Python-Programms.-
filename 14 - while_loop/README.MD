@@ -4,5 +4,4 @@ It also uses the remove
 method to work with the list.
 And example of using
 a loop and conditions to define a
-character in a string
-**
+character in a string**
