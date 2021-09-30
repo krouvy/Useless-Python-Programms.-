@@ -1,0 +1,1 @@
+**2 ways to display information about the number of repeating of numbers in the list.**
